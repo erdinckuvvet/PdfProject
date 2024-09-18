@@ -22,7 +22,7 @@ Here are some screenshots of the program in action:
 ## Prerequisites
 
 - Java Development Kit (JDK) 8 or higher.
-- iText7 library (for PDF creation).
+- iText8 library (for PDF creation).
 
 ## Getting Started
 
