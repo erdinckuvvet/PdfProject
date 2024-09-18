@@ -13,7 +13,7 @@ This project is a simple Java application that creates PDF documents with images
 
 Here are some screenshots of the program in action:
 
-![Screenshot 1](./images/screenshot1.png)
+![Screenshot 1](./src/images/screenshot1.png)
 
 ![Screenshot 2](./images/screenshot2.png)
 
