@@ -15,9 +15,9 @@ Here are some screenshots of the program in action:
 
 ![Screenshot 1](./src/images/screenshot1.png)
 
-![Screenshot 2](./images/screenshot2.png)
+![Screenshot 2](./src/images/screenshot2.png)
 
-![Screenshot 3](./images/screenshot3.png)
+![Screenshot 3](./src/images/screenshot3.png)
   
 ## Prerequisites
 
