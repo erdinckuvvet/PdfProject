@@ -1,0 +1,62 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/erdinc.kuvvet/.m2/repository/com/itextpdf/itext-core/8.0.2/itext-core-8.0.2.pom;C:/Users/erdinc.kuvvet/.m2/repository/com/itextpdf/barcodes/8.0.2/barcodes-8.0.2.jar;C:/Users/erdinc.kuvvet/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar;C:/Users/erdinc.kuvvet/.m2/repository/com/itextpdf/font-asian/8.0.2/font-asian-8.0.2.jar;C:/Users/erdinc.kuvvet/.m2/repository/com/itextpdf/forms/8.0.2/forms-8.0.2.jar;C:/Users/erdinc.kuvvet/.m2/repository/com/itextpdf/hyph/8.0.2/hyph-8.0.2.jar;C:/Users/erdinc.kuvvet/.m2/repository/com/itextpdf/io/8.0.2/io-8.0.2.jar;C:/Users/erdinc.kuvvet/.m2/repository/com/itextpdf/commons/8.0.2/commons-8.0.2.jar;C:/Users/erdinc.kuvvet/.m2/repository/com/itextpdf/kernel/8.0.2/kernel-8.0.2.jar;C:/Users/erdinc.kuvvet/.m2/repository/com/itextpdf/layout/8.0.2/layout-8.0.2.jar;C:/Users/erdinc.kuvvet/.m2/repository/com/itextpdf/pdfa/8.0.2/pdfa-8.0.2.jar;C:/Users/erdinc.kuvvet/.m2/repository/com/itextpdf/sign/8.0.2/sign-8.0.2.jar;C:/Users/erdinc.kuvvet/.m2/repository/com/itextpdf/styled-xml-parser/8.0.2/styled-xml-parser-8.0.2.jar;C:/Users/erdinc.kuvvet/.m2/repository/com/itextpdf/svg/8.0.2/svg-8.0.2.jar;C:/Users/erdinc.kuvvet/.m2/repository/com/itextpdf/bouncy-castle-connector/8.0.2/bouncy-castle-connector-8.0.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'16'
+-sourcepath
+'C:/Users/erdinc.kuvvet/Documents/NetBeansProjects/PdfProject/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/erdinc.kuvvet/Documents/NetBeansProjects/PdfProject/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PdfProject 1.0 API'
+-use
+-version
+-windowtitle
+'PdfProject 1.0 API'
+erdinc_kuvvet.pdfproject
+C:\Users\erdinc.kuvvet\.m2\repository\com\itextpdf\itext-core\8.0.2\itext-core-8.0.2.pom = 1725361737527
+C:\Users\erdinc.kuvvet\.m2\repository\com\itextpdf\barcodes\8.0.2\barcodes-8.0.2.jar = 1725361740596
+C:\Users\erdinc.kuvvet\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar = 1685627416633
+C:\Users\erdinc.kuvvet\.m2\repository\com\itextpdf\font-asian\8.0.2\font-asian-8.0.2.jar = 1725361746011
+C:\Users\erdinc.kuvvet\.m2\repository\com\itextpdf\forms\8.0.2\forms-8.0.2.jar = 1725361741454
+C:\Users\erdinc.kuvvet\.m2\repository\com\itextpdf\hyph\8.0.2\hyph-8.0.2.jar = 1725361744492
+C:\Users\erdinc.kuvvet\.m2\repository\com\itextpdf\io\8.0.2\io-8.0.2.jar = 1725361745003
+C:\Users\erdinc.kuvvet\.m2\repository\com\itextpdf\commons\8.0.2\commons-8.0.2.jar = 1725361742461
+C:\Users\erdinc.kuvvet\.m2\repository\com\itextpdf\kernel\8.0.2\kernel-8.0.2.jar = 1725361746529
+C:\Users\erdinc.kuvvet\.m2\repository\com\itextpdf\layout\8.0.2\layout-8.0.2.jar = 1725361746526
+C:\Users\erdinc.kuvvet\.m2\repository\com\itextpdf\pdfa\8.0.2\pdfa-8.0.2.jar = 1725361746004
+C:\Users\erdinc.kuvvet\.m2\repository\com\itextpdf\sign\8.0.2\sign-8.0.2.jar = 1725361746525
+C:\Users\erdinc.kuvvet\.m2\repository\com\itextpdf\styled-xml-parser\8.0.2\styled-xml-parser-8.0.2.jar = 1725361747043
+C:\Users\erdinc.kuvvet\.m2\repository\com\itextpdf\svg\8.0.2\svg-8.0.2.jar = 1725361747029
+C:\Users\erdinc.kuvvet\.m2\repository\com\itextpdf\bouncy-castle-connector\8.0.2\bouncy-castle-connector-8.0.2.jar = 1725361746679
+C:\Users\erdinc.kuvvet\Documents\NetBeansProjects\PdfProject\src\main\java = 1726073492238
+C:\Users\erdinc.kuvvet\Documents\NetBeansProjects\PdfProject\target\reports\apidocs\allclasses-index.html = 1726146856541
+C:\Users\erdinc.kuvvet\Documents\NetBeansProjects\PdfProject\target\reports\apidocs\allpackages-index.html = 1726146856544
+C:\Users\erdinc.kuvvet\Documents\NetBeansProjects\PdfProject\target\reports\apidocs\element-list = 1726146856451
+C:\Users\erdinc.kuvvet\Documents\NetBeansProjects\PdfProject\target\reports\apidocs\help-doc.html = 1726146856573
+C:\Users\erdinc.kuvvet\Documents\NetBeansProjects\PdfProject\target\reports\apidocs\index-all.html = 1726146856566
+C:\Users\erdinc.kuvvet\Documents\NetBeansProjects\PdfProject\target\reports\apidocs\index.html = 1726146856569
+C:\Users\erdinc.kuvvet\Documents\NetBeansProjects\PdfProject\target\reports\apidocs\jquery-ui.overrides.css = 1726146856640
+C:\Users\erdinc.kuvvet\Documents\NetBeansProjects\PdfProject\target\reports\apidocs\member-search-index.js = 1726146856550
+C:\Users\erdinc.kuvvet\Documents\NetBeansProjects\PdfProject\target\reports\apidocs\module-search-index.js = 1726146856545
+C:\Users\erdinc.kuvvet\Documents\NetBeansProjects\PdfProject\target\reports\apidocs\overview-tree.html = 1726146856515
+C:\Users\erdinc.kuvvet\Documents\NetBeansProjects\PdfProject\target\reports\apidocs\package-search-index.js = 1726146856547
+C:\Users\erdinc.kuvvet\Documents\NetBeansProjects\PdfProject\target\reports\apidocs\script.js = 1726146856579
+C:\Users\erdinc.kuvvet\Documents\NetBeansProjects\PdfProject\target\reports\apidocs\search.js = 1726146856583
+C:\Users\erdinc.kuvvet\Documents\NetBeansProjects\PdfProject\target\reports\apidocs\serialized-form.html = 1726146856492
+C:\Users\erdinc.kuvvet\Documents\NetBeansProjects\PdfProject\target\reports\apidocs\stylesheet.css = 1726146856577
+C:\Users\erdinc.kuvvet\Documents\NetBeansProjects\PdfProject\target\reports\apidocs\tag-search-index.js = 1726146856553
+C:\Users\erdinc.kuvvet\Documents\NetBeansProjects\PdfProject\target\reports\apidocs\type-search-index.js = 1726146856548
