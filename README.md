@@ -8,6 +8,16 @@ This project is a simple Java application that creates PDF documents with images
 - Add brand, price, and size labels to each page.
 - Customize label positions and dimensions.
 - Automatically save the PDF file to the user's Downloads folder.
+
+## Screenshots
+
+Here are some screenshots of the program in action:
+
+![Screenshot 1](./images/screenshot1.png)
+
+![Screenshot 2](./images/screenshot2.png)
+
+![Screenshot 3](./images/screenshot3.png)
   
 ## Prerequisites
 
