@@ -22,8 +22,8 @@ import java.util.List;
 
 public class PhotoToPdf {
 
-
-    public static void createPdf(String dest, List<String> imagePaths, String brand, List<String> prices, List<String> sizes, int x_location, int y_location, int label_width) throws IOException {
+    public static void createPdf(String dest, List<String> imagePaths, String brand, List<String> references, List<String> prices,
+            List<String> sizes, int x_location, int y_location, int label_width) throws IOException {
         // PDF belgesini oluşturma
         PdfWriter writer = new PdfWriter(dest);
         PdfDocument pdf = new PdfDocument(writer);
@@ -43,14 +43,16 @@ public class PhotoToPdf {
 
             // Etiketleri ekleme
             Paragraph labels = new Paragraph()
+                    .add(new Text("Reference: " + (references.get(i)) + "\n"))
                     .add(new Text("Brand: " + brand + "\n"))
                     .add(new Text("Price : " + prices.get(i) + "\n"))
                     .add(new Text("Size  : " + sizes.get(i) + "\n"));
 
-            labels.setFixedPosition(i + 1, x_location, y_location, label_width); // Sağ üst köşeye yerleştirme (sayfa numarası, X, Y, genişlik)
+            labels.setFixedPosition(i + 1, x_location, y_location, label_width); // Sağ üst köşeye yerleştirme (sayfa
+                                                                                 // numarası, X, Y, genişlik)
             document.add(labels);
         }
-        
+
         document.close();
     }
 }

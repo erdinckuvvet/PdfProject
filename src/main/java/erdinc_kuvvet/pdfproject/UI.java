@@ -237,6 +237,7 @@ public class UI extends javax.swing.JFrame {
         File[] listOfFiles = folder.listFiles();
 
         List<String> imagePaths = new ArrayList<>();
+        List<String> references = new ArrayList<>();
         List<String> prices = new ArrayList<>();
         List<String> sizes = new ArrayList<>();
 
@@ -246,14 +247,15 @@ public class UI extends javax.swing.JFrame {
                 String[] parts = fileName.split(" ");
                 if (parts.length >= 3) {
                     imagePaths.add(file.getAbsolutePath());
-                    prices.add(parts[1]);
-                    sizes.add(parts[2]);
+                    references.add(parts[0]);
+                    prices.add(parts[2]);
+                    sizes.add(parts[3]);
                 }
             }
         }
 
         try {
-            createPdf(dest, imagePaths, brand, prices, sizes,x_location, y_location, label_width);
+            createPdf(dest, imagePaths, brand, references, prices, sizes,x_location, y_location, label_width);
         } catch (IOException e) {
             e.printStackTrace();
         }
